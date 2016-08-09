@@ -45,3 +45,8 @@ group :development do
   gem 'spring'
 end
 
+#Bootstrap styling for app
+gem 'bootstrap-sass', '~> 3.3.6'
+
+#Setup user authenitcation. Best gem ever:)
+gem 'devise'

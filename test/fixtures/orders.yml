@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  phone_number: MyString
+  order_address: MyText
+  status: 1
+  total_price: 9.99
+  customer_notes: MyText
+
+two:
+  name: MyString
+  phone_number: MyString
+  order_address: MyText
+  status: 1
+  total_price: 9.99
+  customer_notes: MyText
